@@ -1,0 +1,7 @@
+<resources>
+    <string name="user_id">MOCK_USER_ID</string>
+    <string name="api_key">opOTyAnVMPeyKPMacKN3Vf9nmjodFiXlgO40y7knKTxzk5NcefY3jL8k8k7t3es4</string>
+    <string name="api_url">API_URL</string>
+    <string name="app_name">elementfacedetect</string>
+    <string name="action_settings">Settings</string>
+</resources>
